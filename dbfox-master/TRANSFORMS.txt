@@ -1,0 +1,7 @@
+1. Split names in the sponsor_info table into first and last name.
+   Remove the title as well.
+
+Save for next milestone:
+2. Repeat for cosponsor_info and sponsors_mod.
+
+3. Add titles of sponsors and cosponsors to sponsors_mod.

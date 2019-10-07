@@ -1,0 +1,9 @@
+dataset2: weather
+
+tasks:
+create_weather_table
+group_by_weather_table
+tempdiff_weather_table
+
+group_by_weather_table is dependent on create_weather_table
+tempdiff_weather_table is dependent on group_by_weather_table
