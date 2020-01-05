@@ -1,1 +1,3 @@
-Projects using Big data for health applications
+Projects done for Big data for health applications
+
+A research paper is also included of results from BERT performance on clinical documents for multi-label classification. A pre-trained BERT model was fine-tuned to our dataset and the performance was analyzed. 
