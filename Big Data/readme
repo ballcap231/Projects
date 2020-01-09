@@ -5,3 +5,13 @@ A pre-trained BERT model was fine-tuned to our MIMIC-III dataset and the perform
 
 Video presentation:
 https://www.youtube.com/watch?v=H0E16EqmFkA
+
+Hw 1: Predicted mortality using sklearn models such as SVM/Log Reg/Random Forest - python
+
+Hw 2: Map-Reduced data for Log Reg prediction of mortality - Hadoop
+
+Hw 3: Predicted patients disease states using supervised and unsupervised phenotyping methods (i.e. rule-based vs K-means/GMM) in Spark
+
+Hw 4: Clustered patients in Spark Graphx to find similarities/dissimilarities
+
+Hw 5: Built GRU/CNN/MLP models in pytorch to predict mortality in patients
