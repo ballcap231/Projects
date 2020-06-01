@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=H0E16EqmFkA
 
 Hw 1: Predicted mortality using sklearn models such as SVM/Log Reg/Random Forest - python
 
-Hw 2: Map-Reduced data for Log Reg prediction of mortality - Hadoop
+Hw 2: Map-Reduced data for Maximum Entropy classification of mortality - Hadoop
 
 Hw 3: Predicted patients disease states using supervised and unsupervised phenotyping methods (i.e. rule-based vs K-means/GMM) in Spark
 
